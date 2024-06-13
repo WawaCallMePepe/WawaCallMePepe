@@ -1,5 +1,7 @@
 ### Ligma Balls
 
+fuck ur wicked version control, i manage my projects on a piece of paper
+
 <!--
 **WawaCallMePepe/WawaCallMePepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
